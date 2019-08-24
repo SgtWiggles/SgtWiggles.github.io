@@ -5,7 +5,7 @@ name: Basic Stance
 ---
 
 When doing wotagei, it is required that both of your feet are firmly planted on the ground.
-The general rule of thumb is that your legs are spread out about 2-3 as wide as your shoulder width. 
+The general rule of thumb is that your legs are spread out about 2-3 times as wide as your shoulder width. 
 This stance should be fairly relaxed, with a slight bend in the knees.
 
 <figure>
