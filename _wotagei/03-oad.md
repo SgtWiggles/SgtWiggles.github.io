@@ -64,7 +64,7 @@ This is shown by the blue line.
 As shown by green line, your elbow should be pointing upwards, ideally perpendicular to the ground.
 
 This completes a single swing of OAD. 
-This is usually repeated 4 or 6 times depending on when it is used in the second, which will be covered later.
+This is usually repeated 4 or 6 times depending on when it is used, which will be covered later.
 When all of this is put together, the final waza looks as follows.
 <figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FL6uPjOMM8Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
