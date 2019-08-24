@@ -1,9 +1,56 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Wotagei Guide"
+    url: "/wotagei/introduction"
+  - title: "🏠🐯"
+    url: "/ietaiga/home"
+
+wotagei-nav:
+  - title: "Getting Started"
+    children:
+      - title: Introduction
+        url: /wotagei/introduction/
+      - title: Basic Stance
+        url: /wotagei/stance/
+  - title: "Fundamental Waza"
+    children:
+      - title: OAD (Over Action Dolphin)
+        url: /wotagei/oad/
+      - title: Nihai Ohai (ニーハイオーハイ)
+        url: /wotagei/nihai/
+      - title: YDD
+        url: /wotagei/ydd/
+      - title: "Soiya (ソイヤ) / 4 Thrusts (4突き)"
+        url: /wotagei/soiya/
+      - title: "Rosario (ロサリオ)"
+        url: /wotagei/rosario/ 
+      - title: "Los Angeles (ロスアンゼルス)"
+        url: /wotagei/los/ 
+      - title: "Romance (ロマンス)"
+        url: /wotagei/romance/ 
+      - title: "Thunder Snake (サンダースネイク)"
+        url: /wotagei/sansune/ 
+      - title: "Amaterasu (アマテラス)"
+        url: /wotagei/amaterasu/ 
+      - title: "Muramasa(ムラマサ)"
+        url: /wotagei/muramasa/
+      - title: "Dragon Spear(ドラゴーンスピア)"
+        url: /wotagei/doraspi/
+  - title: "Torch Waza"
+    children:
+      - title: "Introduction to Torch"
+        url: /wotagei/torch/
+      - title: "Windmill (ウィンドミル)"
+        url: /wotagei/windmill/
+      - title: "8 Torch (8トーチ)"
+        url: /wotagei/hachi/
+      - title: "16 Torch (16トーチ)"
+        url: /wotagei/jyuuroku/
+      - title: "Yashichizurashi (弥七ずらし)"
+        url: /wotagei/yashichi/
+      - title: "Shiranuhi (不知火)"
+        url: /wotagei/shiranuhi/
+
+  - title: "Further Research"
+    children:
+      - title: Searching for Wazas
+        url: /wotagei/further/
