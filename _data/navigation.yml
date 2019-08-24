@@ -19,8 +19,6 @@ wotagei-nav:
         url: /wotagei/oad/
       - title: Nihai Ohai (ニーハイオーハイ)
         url: /wotagei/nihai/
-      - title: YDD
-        url: /wotagei/ydd/
       - title: "Soiya (ソイヤ) / 4 Thrusts (4突き)"
         url: /wotagei/soiya/
       - title: "Rosario (ロサリオ)"
@@ -35,8 +33,6 @@ wotagei-nav:
         url: /wotagei/amaterasu/ 
       - title: "Muramasa(ムラマサ)"
         url: /wotagei/muramasa/
-      - title: "Dragon Spear(ドラゴーンスピア)"
-        url: /wotagei/doraspi/
   - title: "Torch Waza"
     children:
       - title: "Introduction to Torch"
