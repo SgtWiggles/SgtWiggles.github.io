@@ -11,6 +11,8 @@ wotagei-nav:
         url: /wotagei/introduction/
       - title: Basic Stance
         url: /wotagei/stance/
+      - title: Song Structure
+        url: /wotagei/structure/
   - title: "Fundamental Waza"
     children:
       - title: OAD (Over Action Dolphin)
@@ -54,3 +56,5 @@ wotagei-nav:
     children:
       - title: Searching for Wazas
         url: /wotagei/further/
+      - title: Wotagei Groups
+        url: /wotagei/groups/
