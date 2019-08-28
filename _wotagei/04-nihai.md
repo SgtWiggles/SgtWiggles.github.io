@@ -45,20 +45,21 @@ This is indicated by the red line in the picture below.
 </figure>
 
 # Ending Flip
-The final motion of Nihai Ohai, taking two beats.
-You will rotate your arms towards your body, and as a result your elbows with pop outwards.
-The backs of your hands should roll over each other during this motion.
-Continue rotating around until your palms are together facing outwards, as shown in the photo below.
+The final motion of Nihai Ohai takes up two beats. 
+You start by dropping your hands downwards and bringing them back up in a circle motion. 
+While your hands are coming back up, be sure to bring your hands outwards to make the circle bigger.
+Once your hands get closer together, make sure that the palms of your hands are facing downwards, once your hands are together at the apex of the circle, they should both have their palms facing down. 
+Once you get the basic technique down, an advanced technique you can implement is to flip your hands inward when executing the circle movement. 
+This will some extra flair to your Nihai Ohai.
 
 <figure>
 <img src="/assets/wotagei/NihaiFlip.png">
 <figcaption>Red arrow is the path your hands should take</figcaption>
 </figure>
 
-Nihai Ohai should then end in a position where it is very natural to enter OAD again.
+Nihai Ohai should then end in a position where you can naturally begin OAD.
 
 Thus when using lights, the Nihai Ohai looks a follows.
-
 
 <figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4gWbMiwtl7E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
