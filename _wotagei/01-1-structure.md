@@ -3,21 +3,25 @@ title: "Anime/Idol Song Structure"
 permalink: /wotagei/structure/
 ---
 
-Anime and idol songs usually have the following structure:
-1. Intro
-2. A Melody
-3. A Dash Melody
-4. B Melody
-5. Sabi 1
-6. Interlude
-7. A Melody
-8. A Dash Melody
-9. B Melody
-10. Sabi 2
-11. Interlude
-12. C Melody 
-13. Dropped Sabi 
-14. Last Sabi
-15. Outro
+Japanese Pop songs have a similar song structure to Western Pop songs. 
+However, Japanese Pop songs use different terms to describe the different parts of a song.
+Below is a list of each part of the song, and the wazas that are usually used during that part.
+The English equivalent terms are in the braces.
 
-Although this is a generalization, not all songs may have all parts.
++ Intro
++ A-Melody / A-Melo (Verse)
+	+ OAD
+	+ Nihai Ohai
+	+ Soiya
++ B Melody/B-Melo (Pre-Chorus)
+	+ Rosario
+	+ Los Angeles
++ Sabi (Chorus)
+	+ Sabi Waza
++ Interlude
++ C-Melody / C-Melo (Bridge)
++ Outro
+
+This is the general structure for many Japanese Pop songs. 
+However, there are Japanese Pop songs that have more unique structures, which are more difficult to choreograph for but allow for more unique choreographies.
+
