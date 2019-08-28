@@ -15,7 +15,7 @@ It is demonstrated in the video below.
 
 Below describes which points to look out for when practicing OAD.
 
-# Basic Motion
+# Starting Position
 
 As with most of wotagei, you start from the right side, thus you will be swinging from left to right.
 Your stance should be as described in <a href="/wotagei/stance">Basic Stance</a>.
@@ -28,7 +28,7 @@ Thus, OAD starts in a position similar to the photo below.
 
 Note that the right elbow is pointing straight up, and both hands are on the right side by your head.
 
-## Initial Motion
+# Initial Swing
 
 Begin by swinging your arms from right to left.
 It is important that your arms are completely extended during the swing.
@@ -43,7 +43,7 @@ Getting to this point should take about 1 beat.
 Your left arm will be pointing towards the sky, and the right arm almost parallel with the floor.
 This is followed by a snap which completes one swing of OAD.
 
-## Ending Snap
+# Ending Snap
 Continuing from above, on the final beat your arms should snap together as follows.
 <figure>
 <img src="/assets/wotagei/OAD Snap.png">
