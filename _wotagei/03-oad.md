@@ -4,68 +4,79 @@ permalink: /wotagei/oad/
 ---
 # OAD 
 
-OAD is a commonly used waza during the A-Melo.
-Each swing takes two beats, with your arms swinging left to right.
-It is demonstrated in the video below.
+OAD is a commonly used waza during the A-melo (Verse) of a song. 
+One swing for OAD will take two beats to complete. 
+This waza involves swinging arm and body movements, going from side to side. 
+Please refer to the demonstration below.
 
 <figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_m6qK9j7goM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <figcaption>OAD, no lights. Song: "Yume de Yozora o Terashitai" from Love Live! Sunshine!! </figcaption>
 </figure>
 
-Below describes which points to look out for when practicing OAD.
 
-# Starting Position
+# Starting Stance
 
-As with most of wotagei, you start from the right side, thus you will be swinging from left to right.
-Your stance should be as described in <a href="/wotagei/stance">Basic Stance</a>.
-Thus, OAD starts in a position similar to the photo below.
+As with most wazas in wotagei, you will start in the <a href="/wotagei/stance">standard wotagei stance</a>.
+The first swing starts on your right and goes to the left. 
+This can be seen in the image below.
 
 <figure>
 <img src="/assets/wotagei/OAD Start.jpg">
 <figcaption></figcaption>
 </figure>
 
-Note that the right elbow is pointing straight up, and both hands are on the right side by your head.
+Note the location of the hands are on the right side of the head.
+The right arm should be somewhere between horizontal or vertical.
 
-# Initial Swing
+# Swings
 
-Begin by swinging your arms from right to left.
-It is important that your arms are completely extended during the swing.
-The photo below shows an approximate path your hands should take when doing OAD.
+For your first OAD, start by swinging your arms to the left. 
+You want to keep your arms fully extended for the first beat of the swing. 
+Note that your arms should swing across your body. 
+The photo below shows the path that your arms should be taking during an OAD swing.
 
 <figure>
 <img src="/assets/wotagei/OAD Initial.png">
 <figcaption>Red is the left hand, green is the right hand</figcaption>
 </figure>
 
-Getting to this point should take about 1 beat.
-Your left arm will be pointing towards the sky, and the right arm almost parallel with the floor.
-This is followed by a snap which completes one swing of OAD.
+This swinging movement should only take one beat.
 
-# Ending Snap
-Continuing from above, on the final beat your arms should snap together as follows.
+# Ending "Snap"
+For the second beat, you want to quickly snap your hands together.
+This creates a “V” with your arms, a little bit above and to the side of your head.
+Shown below is the movement your arms should make to complete the “snap”
 <figure>
 <img src="/assets/wotagei/OAD Snap.png">
 <figcaption>Red is the left hand, green is the right hand</figcaption>
 </figure>
 
-Note that after the final snap, your ending position should be as shown below.
+After the snap your position should be similar to that as the initial position, except your arms are on the left side.
+The above is repeated, except going in the other direction.
+
+
+# OAD Set
+A single OAD set consists of 6 swings of OAD, followed by Nihai Ohai, followed by 4 more swings of OAD and a Soiya/4 Thrusts.
+Nihai Ohai and Soiya/4 Thrusts will be discussed in later sections.
+
+# Important Points
+When practicing OAD, you should pay attention to the following points.
+
+    1. Your head should be *looking straight ahead* during each swing. From your perspective, the upper third of your vision should be covered with your hands (snapped together), and the other two-thirds should be a clear view ahead.
+    1. Once your hands have snapped, your body should form *a straight line from your armpit down to your leg*. This line gives your OAD more power, resulting in a cleaner OAD. To obtain this straight line, your other *knee slightly bends inwards*. This point can be summarized in the photo below.
+
 <figure>
 <img src="/assets/wotagei/OAD Refine.png">
+<figcaption>Red is the left hand, green is the right hand</figcaption>
 </figure>
-Your body should form a straight line with your leg, depending on which side you are swinging from.
-To achieve this, the knee your bending down to will be bent. 
-This is shown with the red line in the photo above.
 
-Your head should be facing straight forward and parallel to the floor.
-This is shown by the blue line.
+    1. *There is a small pause right after the snap*, before going into the next swing of OAD. This small pause emphasizes the light streaks, making the OAD look more sharp.
 
-As shown by green line, your elbow should be pointing upwards, ideally perpendicular to the ground.
 
-This completes a single swing of OAD. 
-This is usually repeated 4 or 6 times depending on when it is used, which will be covered later.
-When all of this is put together, the final waza looks as follows.
+# Final Result
+
+Once putting the above points all together, it results in something similar to below.
 <figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FL6uPjOMM8Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <figcaption>OAD, with lights. Song: "Yume de Yozora o Terashitai" from Love Live! Sunshine!! </figcaption>
