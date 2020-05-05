@@ -71,7 +71,7 @@ When practicing OAD, you should pay attention to the following points.
 <figcaption>Red is the left hand, green is the right hand</figcaption>
 </figure>
 
-    1. *There is a small pause right after the snap*, before going into the next swing of OAD. This small pause emphasizes the light streaks, making the OAD look more sharp.
+ + *There is a small pause right after the snap*, before going into the next swing of OAD. This small pause emphasizes the light streaks, making the OAD look more sharp.
 
 
 # Final Result
