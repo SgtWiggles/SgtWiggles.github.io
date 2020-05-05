@@ -23,3 +23,6 @@ These are a couple of important notes that must be kept in mind when learning wo
  + Don't get discouraged if you can't learn a waza immediately. When starting, a waza take some time for your body to memorize the movements.
  + Always stretch! Wotagei is intensive on both your back, shoulders and legs. When you start you will be sore, but this can be minimized with proper stretching and warm up.
  + Cyalumes are not needed to learn wotagei. Cyalumes are only really used during performance. During practice people use dead glow sticks or just their hands.
+
+
+<!-- TODO break learning Wotagei and Definitions into another document -->
