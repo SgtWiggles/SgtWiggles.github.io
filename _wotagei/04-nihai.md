@@ -59,9 +59,9 @@ The flip motion itself should only take one beat, with the beat after used to in
 Nihai Ohai should then end in a position where you can naturally begin OAD.
 
 # Important Points
-    1. Do not bring your arms too far downwards. This will cause your body to hunch over making the overall movement look smaller.
-    1. When returing in Ohai, do not turn your body completely sideways. Keeping your body slightly angled forward makes the motion look bigger but also makes the motion look cleaner.
-    1. When doing the flip, push your arms outward and exaggerate the circle motion. This extra movement makes Nihai Ohai much sharper.
+ + Do not bring your arms too far downwards. This will cause your body to hunch over making the overall movement look smaller.
+ + When returing in Ohai, do not turn your body completely sideways. Keeping your body slightly angled forward makes the motion look bigger but also makes the motion look cleaner.
+ + When doing the flip, push your arms outward and exaggerate the circle motion. This extra movement makes Nihai Ohai much sharper.
 
 When all put together, Nihai Ohai looks as follows.
 

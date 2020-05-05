@@ -63,8 +63,8 @@ Nihai Ohai and Soiya/4 Thrusts will be discussed in later sections.
 # Important Points
 When practicing OAD, you should pay attention to the following points.
 
-    1. Your head should be *looking straight ahead* during each swing. From your perspective, the upper third of your vision should be covered with your hands (snapped together), and the other two-thirds should be a clear view ahead.
-    1. Once your hands have snapped, your body should form *a straight line from your armpit down to your leg*. This line gives your OAD more power, resulting in a cleaner OAD. To obtain this straight line, your other *knee slightly bends inwards*. This point can be summarized in the photo below.
+ + Your head should be *looking straight ahead* during each swing. From your perspective, the upper third of your vision should be covered with your hands (snapped together), and the other two-thirds should be a clear view ahead.
+ + Once your hands have snapped, your body should form *a straight line from your armpit down to your leg*. This line gives your OAD more power, resulting in a cleaner OAD. To obtain this straight line, your other *knee slightly bends inwards*. This point can be summarized in the photo below.
 
 <figure>
 <img src="/assets/wotagei/OAD Refine.png">

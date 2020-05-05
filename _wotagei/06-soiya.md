@@ -44,8 +44,8 @@ The next beat, your left arm is then thrusted above your head, following the rig
 <!-- TODO insert photo -->
 
 # Important Points
-    1. Try to make your first beat motion and transition into the spinning look seamless. There should be no sudden movements during this part. This important as it will create good contrast to the 4 thrusts.
-    1. *Rotate your entire body when you thrust*. This will allow you to put much more power into the thrusts and give a sharper look.
+ + Try to make your first beat motion and transition into the spinning look seamless. There should be no sudden movements during this part. This important as it will create good contrast to the 4 thrusts.
+ + *Rotate your entire body when you thrust*. This will allow you to put much more power into the thrusts and give a sharper look.
 
 Once you have put all of the above together, the result will look something as follows.
 
