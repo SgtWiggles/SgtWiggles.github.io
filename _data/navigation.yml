@@ -25,14 +25,14 @@ wotagei-nav:
         url: /wotagei/rosario/ 
       - title: "Los Angeles (ロスアンゼルス)"
         url: /wotagei/los/ 
-      - title: "Romance (ロマンス)"
-        url: /wotagei/romance/ 
       - title: "Thunder Snake (サンダースネイク)"
         url: /wotagei/sansune/ 
       - title: "Amaterasu (アマテラス)"
         url: /wotagei/amaterasu/ 
       - title: "Muramasa(ムラマサ)"
         url: /wotagei/muramasa/
+      - title: "Romance (ロマンス)"
+        url: /wotagei/romance/ 
   - title: "Torch Waza"
     children:
       - title: "Introduction to Torch"
