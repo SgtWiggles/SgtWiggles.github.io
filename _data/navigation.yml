@@ -13,6 +13,7 @@ wotagei-nav:
         url: /wotagei/stance/
       - title: Song Structure
         url: /wotagei/structure/
+
   - title: "Fundamental Waza"
     children:
       - title: OAD (Over Action Dolphin)
@@ -33,6 +34,7 @@ wotagei-nav:
         url: /wotagei/muramasa/
       - title: "Romance (ロマンス)"
         url: /wotagei/romance/ 
+
   - title: "Torch Waza"
     children:
       - title: "Introduction to Torch"
@@ -48,9 +50,13 @@ wotagei-nav:
       - title: "Shiranuhi (不知火)"
         url: /wotagei/shiranuhi/
 
-  - title: "Further Research"
+  - title: "Post-Fundamentals"
     children:
+      - title: Performing Wotagei
+        url: /wotagei/performing/
       - title: Searching for Wazas
         url: /wotagei/further/
       - title: Wotagei Groups
         url: /wotagei/groups/
+      - title: Spartan Challenge
+        url: /wotagei/spartan/

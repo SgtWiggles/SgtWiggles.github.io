@@ -1,6 +1,6 @@
 ---
 title: "Performing Wotagei"
-permalink: /wotagei/performance/
+permalink: /wotagei/performing/
 ---
 
 # Video

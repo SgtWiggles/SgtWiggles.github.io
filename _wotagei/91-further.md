@@ -35,10 +35,7 @@ Which will usually be a person doing many sabi wazas back to back.
 Usually there are names, but they are in Japanese most of the time.
 
 # Wotagei Team Names
-+ 北の打ち師達 (kita no uchi shi)
-+ GinyforcE/ギニュ～特戦隊 (Ginyuforce)
-+ Fly-N
-+ JKz
+See <a href="/wotagei/groups/">Groups</a>.
 
 # Waza Names 
 Here is a list fo some waza names along with romanization/translations. 

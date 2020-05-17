@@ -60,13 +60,17 @@ After waiting one beat, bring your right hand down to your right foot in one bea
 
 
 # Big Body Circle
-For the next four beats, you want to make the spinning motion that you did at the beginning of Thundersnake with your hands and make a big counterclockwise circular motion with your entire body. We are now at the beat 16.
+For the next four beats, you want to make the spinning motion that you did at the beginning of Thundersnake with your hands and make a big counterclockwise circular motion with your entire body. 
+We are now at the beat 16.
 
 <!-- (Insert Photo) -->
 
 # Snake Thunder
-After this, like in Soiya, you want to make big thrusting motions, however this time, you want to also thrust into the middle direction as well, making a total of six thrusts. This part is also considered its own waza, Snake Thunder. We are now at beat 22.
-After your sixth thrust, similar to the spinning motion in both Soiya and Rosario, you want to make a spinning motion with your arms towards your right for two beats. We are now at beat 24.
+After this, like in Soiya, you want to make big thrusting motions, however this time, you want to also thrust into the middle direction as well, making a total of six thrusts. 
+This part is also considered its own waza, Snake Thunder. 
+We are now at beat 22.
+After your sixth thrust, similar to the spinning motion in both Soiya and Rosario, you want to make a spinning motion with your arms towards your right for two beats. 
+We are now at beat 24.
 
 <!-- (Insert Photo) -->
 
@@ -78,12 +82,12 @@ After your two beat spinning motion, you want to take your right arm and slash a
 <figcaption>Movement of arms during In and Out</figcaption>
 </figure>
 
-# Ro - Ma - N - Su
+# Romance Keihou (aka. RO - MA - N - SU)
 After you pull your arms back into your body for a second time, you want to ready your stance to go into Romance which has your left arm extended and angled up with your right arm bent making a clockwise circular motion near your waist. You also want to bend your body very slightly to your right.
 
 <figure>
 <img src="/assets/wotagei/sansune_romance_keihou.jpg">
-<figcaption>Ro - Ma - N - Su positoning</figcaption>
+<figcaption>Romance Keihou positioning</figcaption>
 </figure>
 
 Note the slight bend in the knee, as well as the direction of the motion of the arm.
